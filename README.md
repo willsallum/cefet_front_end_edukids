@@ -14,7 +14,7 @@ mini-irmão, ensiná-lo como falar o nome de alguns animais.
 O jogo funciona assim:
 
 - Assim que apertar **play**, o jogo começa
-- A cada ~2s, um animal é sorteado e começa a ficar agitado, com fome
+- A cada 2s, um animal é sorteado e começa a ficar agitado, com fome
 - Você deve clicar no animal agitado para alimentá-lo antes que ele coma
   alguém
   - Fazendo isso, ganha-se 1 ponto
@@ -73,7 +73,7 @@ animais. Algumas **sugestões** (mas **não se atenha a elas**):
      `animation-delay` igual à duração da primeira. Veja no
      [slide sobre mais de uma animação][mais-de-uma-animacao].
 
-[criando-uma-animacao]: https://willsallum.github.io/cefet_front_end/classes/css6/#criando-uma-animacao
-[transition-ou-animation]: https://willsallum.github.io/cefet_front_end/classes/css6/#transition-ou-animation
-[transformacoes]: https://willsallum.github.io/cefet_front_end/classes/css6/#transformacoes
-[mais-de-uma-animacao]: https://willsallum.github.io/cefet_front_end/classes/css6/#mais-de-uma-animacao
+[criando-uma-animacao]: https://willsallum.github.io/cefet_front_end/classes/css6/#criando-uma-animação
+[transition-ou-animation]: https://willsallum.github.io/cefet_front_end/classes/css6/#animation-ou-transition
+[transformacoes]: https://willsallum.github.io/cefet_front_end/classes/css6/#transformações
+[mais-de-uma-animacao]: https://willsallum.github.io/cefet_front_end/classes/css6/#exemplo-2-mais-de-uma-animação
