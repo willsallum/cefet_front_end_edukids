@@ -1,3 +1,4 @@
+<!-- {"layout": "title"} -->
 # EduKids Animals
 
 ![](docs/edukids-final.png)
