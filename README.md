@@ -1,5 +1,5 @@
 <!-- {"layout": "title"} -->
-# EduKids Animal
+# EduKids Animals
 
 ![](docs/edukids-final.png)
 
@@ -12,9 +12,9 @@ mini-irmão, ensiná-lo como falar o nome de alguns animais.
 
 ## Atividade
 
-[Baixe os arquivos][seminal-code]
+Baixe o [código seminal][seminal].
 
-[seminal]: https://github.com/willsallum/cefet_front_end_assombrado/archive/master.zip
+[seminal]: https://github.com/willsallum/cefet_front_end_edukids/archive/master.zip
 
 O jogo funciona assim:
 
