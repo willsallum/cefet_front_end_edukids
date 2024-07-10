@@ -12,13 +12,8 @@ mini-irmão, ensiná-lo como falar o nome de alguns animais.
 
 ## Atividade
 
-aaaaa
-
-Baixe o [código seminal][seminal].
-
+Baixe o [código][seminal].
 [seminal]: https://github.com/willsallum/cefet_front_end_edukids/archive/master.zip
-
-aaaa
 
 O jogo funciona assim:
 
